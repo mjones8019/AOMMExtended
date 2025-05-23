@@ -4,6 +4,6 @@ This mod is designed to add AOMM adapted summoner game play to other mods like T
 
 The main purpose of this mod it to add new Combat Emblems, and AOMM "Awakened" combat pets for all the metals and vanity pets in other mods that do not offer native support for AOMM.
 
-This mod has been created without the express permission of the other mod authors, please follow the links to check out their great mods.
+This mod has been created without the express permission of the other mod authors and I will prefer to use their image assets when adding AOMM capability to their minions, please follow the links to check out their great mods.
 
 This mod will not require the other mods other than AOMM itself to be installed as it will only enable the emblems/pets for mods that it finds in your mod loadout.
