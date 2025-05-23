@@ -1,0 +1,7 @@
+displayName = AOMM Extended
+author = Grimorian
+version = 1.2
+modReferences = AmuletOfManyMinions
+loadAfter = AmuletOfManyMinions
+loadAfter = CalamityMod
+loadAfter = ThoriumMod

@@ -1,0 +1,274 @@
+Mods: {
+	AOMMExtended: {
+		CombatPetEmblems: {
+			CommonTooltip:
+				'''
+				An emblem that increases the power of your combat pets!
+				As long as this item is in your inventory, your combat pet will deal
+				additional damage, and will receive a bonus to movement speed and attack range.
+				'''
+			MinionSlotsToCombatPet: In addition, you can use up to {0} of your minion slots on combat pets.
+		}
+
+		// === Vanilla + Extended Emblems ===
+		CopperCombatPetEmblem.DisplayName: Copper Combat Pet Emblem
+		TinCombatPetEmblem.DisplayName: Tin Combat Pet Emblem
+		IronCombatPetEmblem.DisplayName: Iron Combat Pet Emblem
+		LeadCombatPetEmblem.DisplayName: Lead Combat Pet Emblem
+		SilverCombatPetEmblem.DisplayName: Silver Combat Pet Emblem
+		TungstenCombatPetEmblem.DisplayName: Tungsten Combat Pet Emblem
+		FossilCombatPetEmblem.DisplayName: Fossil Combat Pet Emblem
+		ObsidianCombatPetEmblem.DisplayName: Obsidian Combat Pet Emblem
+		BeeCombatPetEmblem.DisplayName: Bee Combat Pet Emblem
+		HellstoneCombatPetEmblem.DisplayName: Hellstone Combat Pet Emblem
+		SpiderCombatPetEmblem.DisplayName: Spider Combat Pet Emblem
+		BloodMoonCombatPetEmblem.DisplayName: Blood Moon Combat Pet Emblem
+		// === Calamity Emblems ===
+		SeaPrismCombatPetEmblem.DisplayName: Sea Prism Combat Pet Emblem
+		AerialiteCombatPetEmblem.DisplayName: Aerialite Combat Pet Emblem
+		CryonicCombatPetEmblem.DisplayName: Cryonic Combat Pet Emblem
+		AstralCombatPetEmblem.DisplayName: Astral Combat Pet Emblem
+		ExodiumCombatPetEmblem.DisplayName: Exodium Combat Pet Emblem
+		UelibloomCombatPetEmblem.DisplayName: Uelibloom Combat Pet Emblem
+		AuricCombatPetEmblem.DisplayName: Auric Combat Pet Emblem
+		// === Thorium Emblems ===
+		ThoriumCombatPetEmblem.DisplayName: Thorium Combat Pet Emblem
+		AquaiteCombatPetEmblem.DisplayName: Aquaite Combat Pet Emblem
+		IllumiteCombatPetEmblem.DisplayName: Illumite Combat Pet Emblem
+
+		Items: {
+			BeeCombatPetEmblem: {
+				DisplayName: Bee Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			BloodMoonCombatPetEmblem: {
+				DisplayName: Blood Moon Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			AerialiteCombatPetEmblem: {
+				DisplayName: Aerialite Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			AstralCombatPetEmblem: {
+				DisplayName: Astral Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			AuricCombatPetEmblem: {
+				DisplayName: Auric Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			CryonicCombatPetEmblem: {
+				DisplayName: Cryonic Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			ExodiumCombatPetEmblem: {
+				DisplayName: Exodium Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			SeaPrismCombatPetEmblem: {
+				DisplayName: Sea Prism Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			UelibloomCombatPetEmblem: {
+				DisplayName: Uelibloom Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			CopperCombatPetEmblem: {
+				DisplayName: Copper Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			FossilCombatPetEmblem: {
+				DisplayName: Fossil Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			HellstoneCombatPetEmblem: {
+				DisplayName: Hellstone Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			IronCombatPetEmblem: {
+				DisplayName: Iron Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			LeadCombatPetEmblem: {
+				DisplayName: Lead Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			ObsidianCombatPetEmblem: {
+				DisplayName: Obsidian Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			SilverCombatPetEmblem: {
+				DisplayName: Silver Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			SpiderCombatPetEmblem: {
+				DisplayName: Spider Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			AquaiteCombatPetEmblem: {
+				DisplayName: Aquaite Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			IllumiteCombatPetEmblem: {
+				DisplayName: Illumite Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			ThoriumCombatPetEmblem: {
+				DisplayName: Thorium Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			TinCombatPetEmblem: {
+				DisplayName: Tin Combat Pet Emblem
+				Tooltip: ""
+			}
+
+			TungstenCombatPetEmblem: {
+				DisplayName: Tungsten Combat Pet Emblem
+				Tooltip: ""
+			}
+		}
+	}
+
+	Items: {
+		TungstenCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Tungsten Combat Pet Emblem
+		}
+
+		TinCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Tin Combat Pet Emblem
+		}
+
+		ThoriumCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Thorium Combat Pet Emblem
+		}
+
+		IllumiteCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Illumite Combat Pet Emblem
+		}
+
+		AquaiteCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Aquaite Combat Pet Emblem
+		}
+
+		SpiderCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Spider Combat Pet Emblem
+		}
+
+		SilverCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Silver Combat Pet Emblem
+		}
+
+		ObsidianCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Obsidian Combat Pet Emblem
+		}
+
+		LeadCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Lead Combat Pet Emblem
+		}
+
+		IronCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Iron Combat Pet Emblem
+		}
+
+		HellstoneCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Hellstone Combat Pet Emblem
+		}
+
+		FossilCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Fossil Combat Pet Emblem
+		}
+
+		CopperCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Copper Combat Pet Emblem
+		}
+
+		UelibloomCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Uelibloom Combat Pet Emblem
+		}
+
+		SeaPrismCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Sea Prism Combat Pet Emblem
+		}
+
+		ExodiumCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Exodium Combat Pet Emblem
+		}
+
+		CryonicCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Cryonic Combat Pet Emblem
+		}
+
+		AuricCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Auric Combat Pet Emblem
+		}
+
+		AstralCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Astral Combat Pet Emblem
+		}
+
+		AerialiteCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Aerialite Combat Pet Emblem
+		}
+
+		BloodMoonCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Blood Moon Combat Pet Emblem
+		}
+
+		BeeCombatPetEmblem: {
+			Tooltip: ""
+			DisplayName: Bee Combat Pet Emblem
+		}
+	}
+
+	Mods: {
+		AOMMExtended: {
+			Common: {
+				CombatPetEmblems: {
+					MinionSlotsToCombatPet: Mods.AOMMExtended.Mods.AOMMExtended.Common.CombatPetEmblems.MinionSlotsToCombatPet
+					CommonTooltip: Mods.AOMMExtended.Mods.AOMMExtended.Common.CombatPetEmblems.CommonTooltip
+				}
+			}
+		}
+	}
+}
